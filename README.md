@@ -1,20 +1,19 @@
-## foot
-今天中午吃什么
+# foot
 
-## 目的
-加强Vue熟悉Vue的使用
+### objective
+Combine Vue CIL to get familiar with the use of Vue
 
-## Project setup
+### Project setup
 ```
 npm install
-或者
+and
 yarn
 ```
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
-或者
+and
 yarn serve
 ```
 
