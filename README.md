@@ -1,9 +1,9 @@
 # What do you have for lunch today?
 
-### objective
+### describe
 Combine Vue CIL to get familiar with the use of Vue
 
-### Project setup
+### Project operation
 ```
 npm install
 and
